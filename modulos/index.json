@@ -1,0 +1,9 @@
+[
+	{
+	"nombre": "AnimeFLV",
+	"descripcion": "Servidor de AnimeFLV.net",
+	"url": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/anime/AnimeFLV.ws",
+	"icono":"https://animeflv.net/favicon.ico",
+	"creador":"AnimeWS"
+	}
+]
