@@ -7,5 +7,14 @@
       "creador":"AnimeWS",
       "key":"QW5pbWVGTFYsQW5pbWVXUywyMDE5LTA5LTEzIDExOjE0OjAw",
       "version":"0.1"
+   },
+    { 
+      "nombre":"JkAnime",
+      "descripcion":"Servidor de AnimeFLV.net",
+      "url":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/anime/AnimeFLV.ws",
+      "icono":"https://animeflv.net/favicon.ico",
+      "creador":"AnimeWS",
+      "key":"QW5pbWVGTFYsQW5pbWVXUywyMDE5LTA5LTEzIDExOjE0OjAw",
+      "version":"0.1"
    }
 ]
