@@ -1,4 +1,5 @@
-[
+{
+	"Modulos":[
 	{
 	"nombre": "AnimeFLV",
 	"descripcion": "Servidor de AnimeFLV.net",
@@ -9,3 +10,4 @@
 	"version":"0.1"
 	}
 ]
+}
