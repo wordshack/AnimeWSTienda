@@ -10,7 +10,7 @@ selector->body>div.Wrapper>div>div>div.BX.Row.BFluid.Sp20>main>ul.ListEpisodios.
 titulo->Text::strong[class=title]
 enlace->Attr::a[href]
 extra->Text::span[class=Capi]
-imagen->Attr::img[src]+conFirst<url>,thumbs=>covers
+imagen->Attr::img[src],conFirst[url],replace[thumbs=>covers]
 </div>
 
 <div class="busqueda">
