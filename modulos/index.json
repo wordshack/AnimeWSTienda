@@ -10,11 +10,11 @@
    },
     { 
       "nombre":"JkAnime",
-      "descripcion":"Servidor de AnimeFLV.net",
+      "descripcion":"Servidor de JkAnime.net",
       "url":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/anime/AnimeFLV.ws",
-      "icono":"https://animeflv.net/favicon.ico",
+      "icono":"https://cdn.jkanime.net/assets/images/favicon.ico",
       "creador":"AnimeWS",
-      "key":"QW5pbWVGTFYsQW5pbWVXUywyMDE5LTA5LTEzIDExOjE0OjAw",
+      "key":"SmtBbmltZSxBbmltZVdTLDIwMTktMDktMTUgMzo1OTowMA==",
       "version":"0.1"
    }
 ]
