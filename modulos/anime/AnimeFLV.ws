@@ -14,12 +14,15 @@ imagen->Attr::img[src],conFirst[url],replace[thumbs=>covers]
 </div>
 
 <div class="busqueda">
+url->https://animeflv.net
 </div>
 
 <div class="ficha">
+url->https://animeflv.net
 </div>
 
 <div class="listacap">
+url->https://animeflv.net
 </div>
 
 <div class="servidores">
