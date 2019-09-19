@@ -8,55 +8,5 @@
       "creador":"AnimeWS",
       "key":"QW5pbWVGTFYsQW5pbWVXUywyMDE5LTA5LTEzIDExOjE0OjAw",
       "version":"0.1"
-   },
-    { 
-      "nombre":"AnimeFLV",
-      "tipo":"Anime",
-      "descripcion":"Servidor de AnimeFLV.net",
-      "url":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/anime/AnimeFLV.ws",
-      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/animeflv.png",
-      "creador":"AnimeWS",
-      "key":"QW5pbWVGTFYsQW5pbWVXUywyMDE5LTA5LTEzIDExOjE0OjA",
-      "version":"0.1"
-   },
-    { 
-      "nombre":"AnimeFLV",
-      "tipo":"Anime",
-      "descripcion":"Servidor de AnimeFLV.net",
-      "url":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/anime/AnimeFLV.ws",
-      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/animeflv.png",
-      "creador":"AnimeWS",
-      "key":"QW5pbWVGTFYsQW5pbWVXUywyMDE5LTA5LTEzIDExOjE0OjAwz",
-      "version":"0.1"
-   },
-    { 
-      "nombre":"AnimeFLV",
-      "tipo":"Anime",
-      "descripcion":"Servidor de AnimeFLV.net",
-      "url":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/anime/AnimeFLV.ws",
-      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/animeflv.png",
-      "creador":"AnimeWS",
-      "key":"QW5pbWVGTFYsQW5pbWVXUywyMDE5LTA5LTEzIDExOjE0OjAwr",
-      "version":"0.1"
-   },
-    { 
-      "nombre":"AnimeFLV",
-      "tipo":"Anime",
-      "descripcion":"Servidor de AnimeFLV.net",
-      "url":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/anime/AnimeFLV.ws",
-      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/animeflv.png",
-      "creador":"AnimeWS",
-      "key":"QW5pbWVGTFYsQW5pbWVXUywyMDE5LTA5LTEzIDExOjE0OjAwy",
-      "version":"0.1"
-   },
-    { 
-      "nombre":"AnimeFLV",
-      "tipo":"Anime",
-      "descripcion":"Servidor de AnimeFLV.net",
-      "url":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/anime/AnimeFLV.ws",
-      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/animeflv.png",
-      "creador":"AnimeWS",
-      "key":"QW5pbWVGTFYsQW5pbWVXUywyMDE5LTA5LTEzIDExOjE0OjAwxx",
-      "version":"0.1"
    }
 ]
