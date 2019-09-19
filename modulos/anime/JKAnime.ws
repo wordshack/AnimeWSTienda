@@ -6,7 +6,7 @@ tipo->Anime
 
 <div class="inicio">
 subUrl->/
-selector->#slider3 > div.viewport > div > a.odd
+selector->#slider3>div.viewport>div>a.odd
 titulo->Attr::img[alt]
 enlace->Attr::div[href]
 extra->Text::span[class=ep-time]->i[class=clock-icon]
