@@ -18,7 +18,10 @@ url->https://animeflv.net
 </div>
 
 <div class="ficha">
-url->https://animeflv.net
+ficha->true
+emision->Text::.fa-tv
+descripcion->Text::div[class=Description]
+generos->Text::.Nvgnrs:first-of-type a
 </div>
 
 <div class="listacap">
