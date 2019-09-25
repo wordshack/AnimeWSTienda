@@ -21,7 +21,7 @@ url->https://animeflv.net
 ficha->true
 emision->Text::.fa-tv
 descripcion->Text::div[class=Description]
-generos->Text::.Nvgnrs:first-of-type a
+generos->Text::.Nvgnrs:first-of-type>a
 </div>
 
 <div class="listacap">
