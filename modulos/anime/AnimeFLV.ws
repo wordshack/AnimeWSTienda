@@ -11,7 +11,6 @@ titulo->Text::strong[class=title]
 enlace->Attr::a[href]
 extra->Text::span[class=Capi]
 imagen->Attr::img[src],conFirst[url],replace[thumbs=>covers]
-ficha->true
 </div>
 
 <div class="busqueda">
@@ -19,6 +18,7 @@ url->https://animeflv.net
 </div>
 
 <div class="ficha">
+ficha->true
 emision->Text::.fa-tv
 descripcion->Text::div[class=Description]
 generos->Text::.Nvgnrs:first-of-type>a
