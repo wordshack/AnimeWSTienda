@@ -1,12 +1,15 @@
 {  
    "versiones":{  
       "QW5pbWVGTFYsQW5pbWVXUywyMDE5LTA5LTEzIDExOjE0OjAw":{  
-         "actual":"0.2",
+         "actual":"0.3",
          "0.1":{  
             "changelog":"AnimeFLV"
          },
          "0.2":{  
             "changelog":"•Ficha Actualizada"
+         },
+         "0.3":{  
+            "changelog":"•Ficha"
          }
       }
    }
