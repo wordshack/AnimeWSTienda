@@ -23,6 +23,7 @@ format->conLast[+],replace[/ver/=>/anime/],replaceReg(-[0-9]{1..10}[+])
 emision->Text::.fa-tv
 descripcion->Text::div[class=Description]
 generos->Text::.Nvgnrs:first-of-type>a
+relacionados->.ListAnmRel>li
 </div>
 
 <div class="listacap">
