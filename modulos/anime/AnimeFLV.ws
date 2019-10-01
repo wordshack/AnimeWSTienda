@@ -19,7 +19,7 @@ url->https://animeflv.net
 
 <div class="ficha">
 ficha->true
-format->conLast[+],replace[ver=>anime],replaceReg(-[0-9]{1..10}[+])
+format->conLast[+],replace[/ver/=>/anime/],replaceReg(-[0-9]{1..10}[+])
 emision->Text::.fa-tv
 descripcion->Text::div[class=Description]
 generos->Text::.Nvgnrs:first-of-type>a
