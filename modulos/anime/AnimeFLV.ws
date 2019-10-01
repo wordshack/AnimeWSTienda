@@ -8,7 +8,7 @@ tipo->Anime
 subUrl->/
 selector->body>div.Wrapper>div>div>div.BX.Row.BFluid.Sp20>main>ul.ListEpisodios.AX.Rows.A06.C04.D03>li
 titulo->Text::strong[class=title]
-enlace->Attr::a[href]
+enlace->Attr::a[href],conFirst[url]
 extra->Text::span[class=Capi]
 imagen->Attr::img[src],conFirst[url],replace[thumbs=>covers]
 </div>
