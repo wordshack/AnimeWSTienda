@@ -27,7 +27,8 @@ relacionados->Text::.ListAnmRel>li>a
 </div>
 
 <div class="listacap">
-url->https://animeflv.net
+indexsplit->index(var_episodes_=_[)=>];,replace[var_episodes_=_=>],replace[]..[=>+],replace[[[=>[],replace[[=>],replace[]=>]
+format->conLast[+],replace[/anime/=>/ver/]
 </div>
 
 <div class="servidores">
