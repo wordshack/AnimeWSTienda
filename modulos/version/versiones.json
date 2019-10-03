@@ -13,11 +13,11 @@
          }
       },
       "SktBbmltZSxBbmltZVdTLDIwMTktMDktMTkgMTQ6NDA6MDA=":{  
-         "actual":"0.3",
+         "actual":"0.3.2",
          "0.2":{  
             "changelog":"•Ficha agregada"
          },
-         "0.3":{  
+         "0.3.2":{  
             "changelog":"•Prueba"
          }
       }
