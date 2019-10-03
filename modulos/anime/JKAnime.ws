@@ -18,7 +18,12 @@ url->https://www.jkanime.net
 </div>
 
 <div class="ficha">
-url->https://www.jkanime.net
+ficha->true
+format->replaceReg([0-9]{1..10}[/])
+emision->Text::.info-field>span>b
+descripcion->Text::.sinopsis-box>p
+generos->Text::.info-field>span>a
+relacionados->Text::.slinks>a
 </div>
 
 <div class="listacap">
