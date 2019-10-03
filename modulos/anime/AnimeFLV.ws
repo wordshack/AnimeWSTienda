@@ -27,7 +27,7 @@ relacionados->Text::.ListAnmRel>li>a
 </div>
 
 <div class="listacap">
-indexsplit->index(var_episodes_=_[)=>];,replace[var_episodes_=_=>],replace[]..[=>+],replace[[[=>[],replace[[=>],replace[]=>]
+indexsplit->index(var__episodes__=__[)=>];,replace[var__episodes__=__=>],replace[]..[=>+],replace[[[=>[],replace[[=>],replace[]=>]
 format->conLast[-%cap%],replace[/anime/=>/ver/],replaceReg([0-9]{1..10})=>%id%
 </div>
 

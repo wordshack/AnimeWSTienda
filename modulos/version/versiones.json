@@ -1,24 +1,24 @@
 {  
    "versiones":{  
       "QW5pbWVGTFYsQW5pbWVXUywyMDE5LTA5LTEzIDExOjE0OjAw":{  
-         "actual":"0.5.2",
+         "actual":"0.5.5",
          "0.1":{  
             "changelog":"AnimeFLV"
          },
          "0.2":{  
             "changelog":"•Ficha Actualizada"
          },
-         "0.5.2":{  
-            "changelog":"•Capitulos"
+         "0.5.5":{  
+            "changelog":"•Prueba"
          }
       },
       "SktBbmltZSxBbmltZVdTLDIwMTktMDktMTkgMTQ6NDA6MDA=":{  
-         "actual":"0.2.5",
+         "actual":"0.3",
          "0.2":{  
             "changelog":"•Ficha agregada"
          },
-         "0.2.5":{  
-            "changelog":"•Ficha agregada"
+         "0.3":{  
+            "changelog":"•Prueba"
          }
       }
    }
