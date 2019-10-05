@@ -19,7 +19,7 @@ url->https://www.jkanime.net
 
 <div class="ficha">
 ficha->true
-format->replaceReg([0-9]{1..10}[/])=>/
+format->replaceReg([/][0-9]{1..10}[/])=>/
 emision->Text::.info-field>span>b
 descripcion->Text::.sinopsis-box>p,replace[Sinopsis:__=>]
 generos->Text::.info-field>span>a
