@@ -11,18 +11,6 @@
       "launcher":"ws.anime.mod.servers.animews.anime.jkanime.Main",
       "version":"0.1.1"
    },
- { 
-      "nombre":"JKAnime V2",
-      "tipo":"ANIME",
-      "descripcion":"Servidor de JKAnime.net",
-      "file":"JKAnime.dex",
-      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/anime/JKAnime.dex",
-      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/jkanime.png",
-      "creador":"AnimeWS",
-      "key":"SktBbmltZSxBbmltZVdTLDIwMTktMDktMTkgMTQ6NDA7MDB=",
-      "launcher":"ws.anime.mod.servers.animews.anime.jkanime.Main",
-      "version":"0.1.2"
-   },
     { 
       "nombre":"AnimeFLV",
       "tipo":"ANIME",
