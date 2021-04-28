@@ -4,25 +4,25 @@
       "tipo":"ANIME",
       "descripcion":"Servidor de JKAnime.net",
       "card":"true",
-      "file":"JKAnime.dex",
-      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/anime/JKAnime.dex",
+      "file":"JKAnime.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/anime/JKAnime.wsx",
       "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/jkanime.png",
       "creador":"AnimeWS",
       "key":"SktBbmltZSxBbmltZVdTLDIwMTktMDktMTkgMTQ6NDA6MDA=",
       "launcher":"ws.anime.mod.servers.animews.anime.jkanime.Main",
-      "version":"0.1.9"
+      "version":"0.1.10"
    },
     { 
       "nombre":"AnimeFLV",
       "tipo":"ANIME",
       "descripcion":"Servidor de AnimeFLV.net",
       "card":"true",
-      "file":"AnimeFLV.dex",
-      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/anime/AnimeFLV.dex",
+      "file":"AnimeFLV.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/anime/AnimeFLV.wsx",
       "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/animeflv.png",
       "creador":"AnimeWS",
       "key":"QW5pbWVGTFYsQW5pbWVXUywyMDIxLTA0LTIwIDE1OjQzOjAw",
       "launcher":"ws.anime.mod.servers.animews.anime.animeflv.Main",
-      "version":"0.1.6"
+      "version":"0.1.7"
    }
 ]
