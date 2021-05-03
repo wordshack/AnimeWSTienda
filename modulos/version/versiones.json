@@ -13,9 +13,9 @@
          }
       },
       "SGVudGFpTEEsQW5pbWVXUywyMDIxLTA1LTAzIDE6MDk6MDA=":{
-         "release":"0.1.0",
-         "0.1.0":{  
-            "changelog":"•Modulo de hentaila"
+         "release":"0.1.1",
+         "0.1.1":{  
+            "changelog":"•Error de imagen en titulo"
          }
       }
    }
