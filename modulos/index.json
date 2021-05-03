@@ -26,5 +26,19 @@
       "launcher":"ws.anime.mod.servers.animews.anime.animeflv.Main",
       "apk":"1.0.0",
       "version":"0.1.11"
+   },
+   { 
+      "nombre":"HentaiLA",
+      "tipo":"HENTAI",
+      "descripcion":"Servidor de HentaiLA.com",
+      "card":"true",
+      "file":"HentaiLA.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/hentai/HentaiLA.wsx",
+      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/animeflv.png",
+      "creador":"AnimeWS",
+      "key":"SGVudGFpTEEsQW5pbWVXUywyMDIxLTA1LTAzIDE6MDk6MDA=",
+      "launcher":"ws.anime.mod.servers.animews.hentai.hentaila.Main",
+      "apk":"1.0.0",
+      "version":"0.1.0"
    }
 ]
