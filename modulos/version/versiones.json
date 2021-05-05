@@ -1,21 +1,21 @@
 {  
    "versions":{  
       "QW5pbWVGTFYsQW5pbWVXUywyMDIxLTA0LTIwIDE1OjQzOjAw":{  
-         "release":"0.1.11",
-         "0.1.11":{  
-            "changelog":"•Nuevo servidor stape"
+         "release":"1.0.0",
+         "1.0.0":{  
+            "changelog":"•AnimeFLV"
          }
       },
       "SktBbmltZSxBbmltZVdTLDIwMTktMDktMTkgMTQ6NDA6MDA=":{  
-         "release":"0.1.13",
-         "0.1.13":{  
-            "changelog":"•Ajustes en las urls"
+         "release":"1.0.0",
+         "1.0.0":{  
+            "changelog":"•JKAnime"
          }
       },
       "SGVudGFpTEEsQW5pbWVXUywyMDIxLTA1LTAzIDE6MDk6MDA=":{
          "release":"0.1.2",
-         "0.1.2":{  
-            "changelog":"•Se agrego servidor de video HLA"
+         "1.0.0":{  
+            "changelog":"•Hentaila"
          }
       }
    }
