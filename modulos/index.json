@@ -1,5 +1,5 @@
-[
-   {
+[ 
+   { 
       "nombre":"JKAnime",
       "tipo":"ANIME",
       "descripcion":"Servidor de JKAnime.net",
@@ -13,7 +13,7 @@
       "apk":"1.0.0",
       "version":"1.0.1"
    },
-   {
+    { 
       "nombre":"AnimeFLV",
       "tipo":"ANIME",
       "descripcion":"Servidor de AnimeFLV.net",
@@ -27,7 +27,7 @@
       "apk":"1.0.0",
       "version":"1.0.0"
    },
-   {
+   { 
       "nombre":"HentaiLA",
       "tipo":"HENTAI",
       "descripcion":"Servidor de HentaiLA.com",
@@ -40,6 +40,5 @@
       "launcher":"ws.anime.mod.servers.animews.hentai.hentaila.Main",
       "apk":"1.0.0",
       "version":"1.0.0"
-   },
-  
+   }
 ]
