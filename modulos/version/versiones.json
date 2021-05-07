@@ -1,21 +1,27 @@
-{  
-   "versions":{  
-      "QW5pbWVGTFYsQW5pbWVXUywyMDIxLTA0LTIwIDE1OjQzOjAw":{  
+{
+   "versions":{
+      "QW5pbWVGTFYsQW5pbWVXUywyMDIxLTA0LTIwIDE1OjQzOjAw":{
          "release":"1.0.0",
-         "1.0.0":{  
+         "1.0.0":{
             "changelog":"•AnimeFLV"
          }
       },
-      "SktBbmltZSxBbmltZVdTLDIwMTktMDktMTkgMTQ6NDA6MDA=":{  
+      "SktBbmltZSxBbmltZVdTLDIwMTktMDktMTkgMTQ6NDA6MDA=":{
          "release":"1.0.1",
-         "1.0.1":{  
+         "1.0.1":{
             "changelog":"•JKMobil arreglado para descargas"
          }
       },
       "SGVudGFpTEEsQW5pbWVXUywyMDIxLTA1LTAzIDE6MDk6MDA=":{
-         "release":"0.1.2",
-         "1.0.0":{  
+         "release":"1.0.0",
+         "1.0.0":{
             "changelog":"•Hentaila"
+         }
+      },
+      "TW9ub3NDaGlub3MsQW5pbWVXUywyMDIxLTA1LTA2IDIxOjU1OjAw":{
+         "release":"1.0.0",
+         "1.0.0":{
+            "changelog":"•MonosChinos"
          }
       }
    }
