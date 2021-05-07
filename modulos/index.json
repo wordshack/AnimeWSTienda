@@ -41,5 +41,18 @@
       "apk":"1.0.0",
       "version":"1.0.0"
    },
-   
+    { 
+      "nombre":"MonosChinos",
+      "tipo":"ANIME",
+      "descripcion":"Servidor de MonosChinos2.com",
+      "card":"true",
+      "file":"MonosChinos.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/anime/MonosChinos.wsx",
+      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/monoschinos.png",
+      "creador":"AnimeWS",
+      "key":"TW9ub3NDaGlub3MsQW5pbWVXUywyMDIxLTA1LTA2IDIxOjU1OjAw",
+      "launcher":"ws.anime.mod.servers.animews.anime.monoschinos.Main",
+      "apk":"1.0.0",
+      "version":"1.0.0"
+   }
 ]
