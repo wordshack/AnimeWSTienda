@@ -1,0 +1,10 @@
+<changelog>
+  <release version="1.1.1" code="1">
+    <new>Indicador de carga de modulos</new>
+    <new>Dialogo de actualizacion de apk</new>
+    <new>Animacion en la vista</new>
+    <new>Mantiene la seleccion del ultimo modulo</new>
+    <fix>Errores al marcar favoritos</fix>
+    <fix>Errores generales</fix>
+  </release>
+</changelog>
