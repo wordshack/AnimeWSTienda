@@ -11,7 +11,7 @@
        "key":"SktBbmltZSxBbmltZVdTLDIwMTktMDktMTkgMTQ6NDA6MDA=",
        "launcher":"ws.anime.mod.servers.animews.anime.jkanime.Main",
        "apk":"1.0.0",
-       "version":"1.0.1"
+       "version":"1.0.2"
     },
     {
        "nombre":"AnimeFLV",
@@ -25,7 +25,7 @@
        "key":"QW5pbWVGTFYsQW5pbWVXUywyMDIxLTA0LTIwIDE1OjQzOjAw",
        "launcher":"ws.anime.mod.servers.animews.anime.animeflv.Main",
        "apk":"1.0.0",
-       "version":"1.0.0"
+       "version":"1.1.0"
     },
     {
        "nombre":"HentaiLA",
@@ -39,7 +39,7 @@
        "key":"SGVudGFpTEEsQW5pbWVXUywyMDIxLTA1LTAzIDE6MDk6MDA=",
        "launcher":"ws.anime.mod.servers.animews.hentai.hentaila.Main",
        "apk":"1.0.0",
-       "version":"1.0.0"
+       "version":"1.0.1"
     },
     {
        "nombre":"MonosChinos",
@@ -53,6 +53,6 @@
        "key":"TW9ub3NDaGlub3MsQW5pbWVXUywyMDIxLTA1LTA2IDIxOjU1OjAw",
        "launcher":"ws.anime.mod.servers.animews.anime.monoschinos.Main",
        "apk":"1.0.0",
-       "version":"1.0.1"
+       "version":"1.0.2"
     }
  ]
