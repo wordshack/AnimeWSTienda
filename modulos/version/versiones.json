@@ -26,8 +26,8 @@
       },
       "TGVjdG9yVE1PLEFuaW1lV1MsMjAyMS0wNS0xMSAyMTo0NjowMA==":{
          "release":"lectortmo",
-         "0.0.5":{
-            "changelog":"•No blocking ip test"
+         "1.0.0":{
+            "changelog":"•lectortmo"
          }
       }
    }
