@@ -1,8 +1,10 @@
 <changelog>
-  <release version="1.1.1" code="1">
-    <type to="new">Manga agregado</type>
-    <type to="new">ChangeLog en los update de apk</type>
-    <type to="change">Mejora en la carga de imagenes</type>
-    <type to="fix">Errores generales</type>
+  <release version="1.3.1" code="1">
+    <type to="new">Noticias agregadas a pantalla de inicio</type>
+    <type to="change">Botón para arreglar Cloudflare si sale sin motivo</type>
+    <type to="fix">Crash al abrir información</type>
+    <type to="fix">Optimización en el logo de carga</type>
+    <type to="fix">Error al cambiar modos en lector manga</type>
+    <type to="fix">Avanzar video con el gesto</type>
   </release>
 </changelog>
