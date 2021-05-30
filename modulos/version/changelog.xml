@@ -1,5 +1,6 @@
 <changelog>
-  <release version="1.3.2" code="1">
-    <type to="fix">Error critico</type>
+  <release version="1.4.2" code="1">
+    <type to="change">Lector de manga mejorado al cargar imágenes</type>
+    <type to="change">Favoritos separados por tipo y etiqueta del módulo</type>
   </release>
 </changelog>
