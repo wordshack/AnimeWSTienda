@@ -2,13 +2,13 @@
    "versions":{
       "QW5pbWVGTFYsQW5pbWVXUywyMDIxLTA0LTIwIDE1OjQzOjAw":{
          "release":"animeflv",
-         "1.2.2":{
+         "1.2.3":{
             "changelog":"•Generos agregados"
          }
       },
       "SktBbmltZSxBbmltZVdTLDIwMTktMDktMTkgMTQ6NDA6MDA=":{
          "release":"jkanime",
-         "1.1.8":{
+         "1.2.0":{
             "changelog":"•Generos agregados"
          }
       },
@@ -26,19 +26,19 @@
       },
       "TGVjdG9yVE1PLEFuaW1lV1MsMjAyMS0wNS0xMSAyMTo0NjowMA==":{
          "release":"lectortmo",
-         "1.0.2":{
+         "1.1.1":{
             "changelog":"•Generos agregados"
          }
       },
       "VE1PSGVudGFpLEFuaW1lV1MsMjAyMS0wNS0yMCAxMzo1ODowMA==":{
          "release":"tmohentai",
-         "1.0.2":{
+         "1.1.2":{
             "changelog":"•Generos agregados"
          }
       },
       "TGVjdG9yTWFuZ2EsQW5pbWVXUywyMDIxLTA2LTA1IDIxOjU1OjAw":{
          "release":"lectormanga",
-         "1.0.1":{
+         "1.0.2":{
             "changelog":"•Arreglo de capitulos"
          }
       }

@@ -1,6 +1,7 @@
 <changelog>
-  <release version="1.4.2" code="1">
-    <type to="change">Lector de manga mejorado al cargar imágenes</type>
-    <type to="change">Favoritos separados por tipo y etiqueta del módulo</type>
+  <release version="1.5.2" code="1">
+    <type to="new">Géneros agregados</type>
+    <type to="new">Eliminar cache</type>
+    <type to="change">Descarga permite seleccionar ubicación</type>
   </release>
 </changelog>
