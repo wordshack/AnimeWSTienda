@@ -82,5 +82,19 @@
        "launcher":"ws.anime.mod.servers.animews.manga.tmohentai.Main",
        "apk":"1.0.0",
        "version":"1.0.1"
-    }
+    },
+    {
+      "nombre":"LectorManga",
+      "tipo":"MANGA",
+      "descripcion":"Servidor de LectorManga.com",
+      "card":"info",
+      "file":"LectorManga.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/manga/beta/LectorManga.wsx",
+      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/lectormanga.png",
+      "creador":"AnimeWS",
+      "key":"TGVjdG9yTWFuZ2EsQW5pbWVXUywyMDIxLTA2LTA1IDIxOjU1OjAw",
+      "launcher":"ws.anime.mod.servers.animews.manga.lectormanga.Main",
+      "apk":"1.0.0",
+      "version":"1.0.0"
+   }
  ]

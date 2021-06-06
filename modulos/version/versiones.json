@@ -35,6 +35,12 @@
          "1.0.1":{
             "changelog":"•Ahora aparecen los recientes"
          }
+      },
+      "TGVjdG9yTWFuZ2EsQW5pbWVXUywyMDIxLTA2LTA1IDIxOjU1OjAw":{
+         "release":"lectormanga",
+         "1.0.0":{
+            "changelog":"•LectorManga"
+         }
       }
    }
 }
