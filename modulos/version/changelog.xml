@@ -1,7 +1,5 @@
 <changelog>
-  <release version="1.5.2" code="1">
-    <type to="new">Géneros agregados</type>
-    <type to="new">Eliminar cache</type>
-    <type to="change">Descarga permite seleccionar ubicación</type>
+  <release version="1.6.2" code="1">
+    <type to="new">Descargar manga</type>
   </release>
 </changelog>
