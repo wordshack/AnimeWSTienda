@@ -19,13 +19,13 @@
       "descripcion":"Servidor de AnimeFLV.net",
       "card":"true",
       "file":"AnimeFLV.wsx",
-      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/anime/beta/AnimeFLV.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/anime/AnimeFLV.wsx",
       "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/animeflv.png",
       "creador":"AnimeWS",
       "key":"QW5pbWVGTFYsQW5pbWVXUywyMDIxLTA0LTIwIDE1OjQzOjAw",
       "launcher":"ws.anime.mod.servers.animews.anime.animeflv.Main",
       "apk":"1.0.0",
-      "version":"1.2.41"
+      "version":"1.2.5"
    },
    {
       "nombre":"HentaiLA",
