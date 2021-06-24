@@ -96,5 +96,19 @@
       "launcher":"ws.anime.mod.servers.animews.manga.lectormanga.Main",
       "apk":"1.0.0",
       "version":"1.0.2"
+   },
+   {
+      "nombre":"TioHentai",
+      "tipo":"HENTAI",
+      "descripcion":"Servidor de LectorManga.com",
+      "card":"true",
+      "file":"TioHentai.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/hentai/beta/TioHentai.wsx",
+      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/tiohentai.png",
+      "creador":"AnimeWS",
+      "key":"VGlvSGVudGFpLEFuaW1lV1MsMjAyMS0wNi0yNCAxMzoyMDowMA==",
+      "launcher":"ws.anime.mod.servers.animews.hentai.tiohentai.Main",
+      "apk":"1.0.0",
+      "version":"0.5"
    }
 ]
