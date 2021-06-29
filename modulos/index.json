@@ -110,5 +110,19 @@
       "launcher":"ws.anime.mod.servers.animews.hentai.tiohentai.Main",
       "apk":"1.0.0",
       "version":"1.0.0"
+   },
+   {
+      "nombre":"AnimeFlash",
+      "tipo":"ANIME",
+      "descripcion":"Servidor de AnimeFlash.xyz",
+      "card":"info",
+      "file":"AnimeFlash.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/anime/AnimeFlash.wsx",
+      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/animeflash.png",
+      "creador":"AnimeWS",
+      "key":"QW5pbWVGbGFzaCxBbmltZVdTLDIwMjEtMDYtMjggMTg6NDg6MDA=",
+      "launcher":"ws.anime.mod.servers.animews.anime.animeflash.Main",
+      "apk":"1.0.0",
+      "version":"1.0.0"
    }
 ]
