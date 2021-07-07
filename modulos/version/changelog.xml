@@ -1,10 +1,6 @@
 <changelog>
-  <release version="1.7.2" code="1">
-    <type to="new">Ocultar la UI del manga con toque largo</type>
-    <type to="new">Ver la lista de episodios desde el reproductor</type>
-    <type to="new">Doble toque en el reproductor para avanzar 10seg</type>
-    <type to="new">Expandir escala del video</type>
-    <type to="fix">Mejoras en los gestos del reproductor</type>
-    <type to="fix">Noticias arregladas</type>
+  <release version="1.8.2" code="1">
+    <type to="new">Sincronización de favoritos en Dropbox para respaldo</type>
+    <type to="fix">Optmizacion de la aplicacion</type>
   </release>
 </changelog>
