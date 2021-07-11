@@ -5,13 +5,13 @@
       "descripcion":"Servidor de JKAnime.net",
       "card":"true",
       "file":"JKAnime.wsx",
-      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/anime/JKAnime.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/anime/beta/JKAnime.wsx",
       "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/jkanime.png",
       "creador":"AnimeWS",
       "key":"SktBbmltZSxBbmltZVdTLDIwMTktMDktMTkgMTQ6NDA6MDA=",
       "launcher":"ws.anime.mod.servers.animews.anime.jkanime.Main",
       "apk":"1.0.0",
-      "version":"1.2.01"
+      "version":"1.2.02"
    },
    {
       "nombre":"AnimeFLV",
