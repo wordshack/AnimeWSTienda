@@ -53,6 +53,12 @@
          "1.0.0":{
             "changelog":"•AnimeFlash"
          }
+      },
+      "TWFuZ2FzSW4sQW5pbWVXUywyMDIxLTA5LTA1IDM6NDE6MDA=":{
+         "release":"mangasin",
+         "1.0.0":{
+            "changelog":"•MangasIn"
+         }
       }
    }
 }

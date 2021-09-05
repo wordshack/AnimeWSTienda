@@ -124,5 +124,19 @@
       "launcher":"ws.anime.mod.servers.animews.anime.animeflash.Main",
       "apk":"1.0.0",
       "version":"1.0.0"
+   },
+   {
+      "nombre":"MangasIn",
+      "tipo":"MANGA",
+      "descripcion":"Servidor de Mangas.in",
+      "card":"info",
+      "file":"MangaIn.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/manga/beta/MangaIn.wsx",
+      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/mangasin.png",
+      "creador":"AnimeWS",
+      "key":"TWFuZ2FzSW4sQW5pbWVXUywyMDIxLTA5LTA1IDM6NDE6MDA=",
+      "launcher":"ws.anime.mod.servers.animews.manga.mangasin.Main",
+      "apk":"1.0.0",
+      "version":"1.0.0"
    }
 ]
