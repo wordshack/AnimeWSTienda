@@ -27,7 +27,7 @@
       "TGVjdG9yVE1PLEFuaW1lV1MsMjAyMS0wNS0xMSAyMTo0NjowMA==":{
          "release":"lectortmo",
          "1.2.1":{
-            "changelog":"•Generos agregados"
+            "changelog":"•fix imagen"
          }
       },
       "VE1PSGVudGFpLEFuaW1lV1MsMjAyMS0wNS0yMCAxMzo1ODowMA==":{
@@ -39,7 +39,7 @@
       "TGVjdG9yTWFuZ2EsQW5pbWVXUywyMDIxLTA2LTA1IDIxOjU1OjAw":{
          "release":"lectormanga",
          "1.1.2":{
-            "changelog":"•Pruebas"
+            "changelog":"•fix imagen"
          }
       },
       "VGlvSGVudGFpLEFuaW1lV1MsMjAyMS0wNi0yNCAxMzoyMDowMA==":{
