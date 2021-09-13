@@ -61,13 +61,13 @@
       "descripcion":"Servidor de LectorTMO.com",
       "card":"info",
       "file":"LectorTMO.wsx",
-      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/manga/LectorTMO.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/manga/beta/LectorTMO.wsx",
       "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/lectortmo.png",
       "creador":"AnimeWS",
       "key":"TGVjdG9yVE1PLEFuaW1lV1MsMjAyMS0wNS0xMSAyMTo0NjowMA==",
       "launcher":"ws.anime.mod.servers.animews.manga.lectortmo.Main",
       "apk":"1.0.0",
-      "version":"1.1.1"
+      "version":"1.1.2"
    },
    {
       "nombre":"TMOHentai",
