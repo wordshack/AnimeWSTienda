@@ -1,11 +1,6 @@
 <changelog>
   <release version="1.9.2" code="1">
-    <type to="new">Se agregó un candado para bloquear los gestos y los botones al reproducir</type>
-    <type to="new">Se agregó un botón para saltar el Opening</type>
-    <type to="new">Ahora se puede reanudar un video en el minuto donde se quedaron</type>
-    <type to="change">Los gestos del reproductor son menos sensibles y más precisos</type>
-    <type to="change">Se agregó un modo para los que no les deja seleccionar la ruta descarga se descargara en una carpeta por defecto</type>
-    <type to="fix">Mejoras en reproductor</type>
-    <type to="fix">El icono de géneros ya se puede seleccionar desde TV box</type>
+    <type to="fix">Imagenes de noticias</type>
+    <type to="fix">Imagenes de manga lectormanga y lectortmo arreglado</type>
   </release>
 </changelog>
