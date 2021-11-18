@@ -1,6 +1,6 @@
 <changelog>
-  <release version="1.10.2" code="1">
+  <release version="1.10.3" code="1">
     <type to="fix">Imagenes de noticias</type>
-    <type to="fix">Imagenes de manga lectormanga y lectortmo arreglado</type>
+    <type to="fix">Video reproduce fembed</type>
   </release>
 </changelog>
