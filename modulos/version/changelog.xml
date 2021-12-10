@@ -1,6 +1,7 @@
 <changelog>
-  <release version="1.10.3" code="1">
-    <type to="fix">Imagenes de noticias</type>
-    <type to="fix">Video reproduce fembed</type>
+  <release version="1.11.3" code="1">
+    <type to="fix">fallo importante con los módulos</type>
+    <type to="fix">Se arregló un error con el reproductor de video</type>
+    <type to="new">Se actualizaron librerías</type>
   </release>
 </changelog>
