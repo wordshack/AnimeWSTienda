@@ -11,7 +11,8 @@
       "key":"SktBbmltZSxBbmltZVdTLDIwMTktMDktMTkgMTQ6NDA6MDA=",
       "launcher":"ws.anime.mod.servers.animews.anime.jkanime.Main",
       "apk":"1.0.0",
-      "version":"1.2.2"
+      "version":"1.2.2",
+      "status":"ACTIVE"
    },
    {
       "nombre":"AnimeFLV",
@@ -25,7 +26,8 @@
       "key":"QW5pbWVGTFYsQW5pbWVXUywyMDIxLTA0LTIwIDE1OjQzOjAw",
       "launcher":"ws.anime.mod.servers.animews.anime.animeflv.Main",
       "apk":"1.0.0",
-      "version":"1.2.9"
+      "version":"1.2.9",
+      "status":"ACTIVE"
    },
    {
       "nombre":"HentaiLA",
@@ -39,7 +41,8 @@
       "key":"SGVudGFpTEEsQW5pbWVXUywyMDIxLTA1LTAzIDE6MDk6MDA=",
       "launcher":"ws.anime.mod.servers.animews.hentai.hentaila.Main",
       "apk":"1.0.0",
-      "version":"1.1.1"
+      "version":"1.1.1",
+      "status":"ACTIVE"
    },
    {
       "nombre":"MonosChinos",
@@ -53,7 +56,8 @@
       "key":"TW9ub3NDaGlub3MsQW5pbWVXUywyMDIxLTA1LTA2IDIxOjU1OjAw",
       "launcher":"ws.anime.mod.servers.animews.anime.monoschinos.Main",
       "apk":"1.0.0",
-      "version":"1.0.4"
+      "version":"1.0.4",
+      "status":"ACTIVE"
    },
    {
       "nombre":"LectorTMO",
@@ -67,7 +71,8 @@
       "key":"TGVjdG9yVE1PLEFuaW1lV1MsMjAyMS0wNS0xMSAyMTo0NjowMA==",
       "launcher":"ws.anime.mod.servers.animews.manga.lectortmo.Main",
       "apk":"1.0.0",
-      "version":"1.2.1"
+      "version":"1.2.1",
+      "status":"ACTIVE"
    },
    {
       "nombre":"TMOHentai",
@@ -81,7 +86,8 @@
       "key":"VE1PSGVudGFpLEFuaW1lV1MsMjAyMS0wNS0yMCAxMzo1ODowMA==",
       "launcher":"ws.anime.mod.servers.animews.manga.tmohentai.Main",
       "apk":"1.0.0",
-      "version":"1.1.2"
+      "version":"1.1.2",
+      "status":"ACTIVE"
    },
    {
       "nombre":"LectorManga",
@@ -95,7 +101,8 @@
       "key":"TGVjdG9yTWFuZ2EsQW5pbWVXUywyMDIxLTA2LTA1IDIxOjU1OjAw",
       "launcher":"ws.anime.mod.servers.animews.manga.lectormanga.Main",
       "apk":"1.0.0",
-      "version":"1.1.2"
+      "version":"1.1.2",
+      "status":"ACTIVE"
    },
    {
       "nombre":"TioHentai",
@@ -109,7 +116,8 @@
       "key":"VGlvSGVudGFpLEFuaW1lV1MsMjAyMS0wNi0yNCAxMzoyMDowMA==",
       "launcher":"ws.anime.mod.servers.animews.hentai.tiohentai.Main",
       "apk":"1.0.0",
-      "version":"1.0.0"
+      "version":"1.0.0",
+      "status":"ACTIVE"
    },
    {
       "nombre":"AnimeFlash",
@@ -123,7 +131,8 @@
       "key":"QW5pbWVGbGFzaCxBbmltZVdTLDIwMjEtMDYtMjggMTg6NDg6MDA=",
       "launcher":"ws.anime.mod.servers.animews.anime.animeflash.Main",
       "apk":"1.0.0",
-      "version":"1.0.0"
+      "version":"1.0.0",
+      "status":"DEPRECATED"
    },
    {
       "nombre":"MangasIn",
@@ -137,7 +146,8 @@
       "key":"TWFuZ2FzSW4sQW5pbWVXUywyMDIxLTA5LTA1IDM6NDE6MDA=",
       "launcher":"ws.anime.mod.servers.animews.manga.mangasin.Main",
       "apk":"1.0.0",
-      "version":"1.0.2"
+      "version":"1.0.2",
+      "status":"ACTIVE"
    },
    {
       "nombre":"AnimeFenix",
@@ -151,6 +161,7 @@
       "key":"QW5pbWVGZW5peCxBbmltZVdTLDIwMjEtMTAtMDkgMzo0MDowMA==",
       "launcher":"ws.anime.mod.servers.animews.anime.animefenix.Main",
       "apk":"1.0.0",
-      "version":"1.0.0"
+      "version":"1.0.0",
+      "status":"ACTIVE"
    }
 ]
