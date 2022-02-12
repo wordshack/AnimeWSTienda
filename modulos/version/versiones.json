@@ -2,7 +2,7 @@
    "versions":{
       "QW5pbWVGTFYsQW5pbWVXUywyMDIxLTA0LTIwIDE1OjQzOjAw":{
          "release":"animeflv",
-         "1.2.9":{
+         "2.2.9":{
             "changelog":"•Servidor SB agregado"
          }
       },
@@ -56,7 +56,7 @@
       },
       "TWFuZ2FzSW4sQW5pbWVXUywyMDIxLTA5LTA1IDM6NDE6MDA=":{
          "release":"mangasin",
-         "1.0.5":{
+         "2.0.2":{
             "changelog":"•Reduce size"
          }
       },
