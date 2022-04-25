@@ -1,7 +1,8 @@
 <changelog>
-  <release version="1.11.3" code="1">
-    <type to="fix">fallo importante con los módulos</type>
-    <type to="fix">Se arregló un error con el reproductor de video</type>
-    <type to="new">Se actualizaron librerías</type>
+  <release version="1.11.4" code="1">
+    <type to="fix">Arreglos y mejoras en la descarga</type>
+    <type to="fix">Actualización de librerías</type>
+    <type to="fix">Mejora en el sistema de módulos</type>
+    <type to="fix">MangasIn ya funciona en esta versión</type>
   </release>
 </changelog>
