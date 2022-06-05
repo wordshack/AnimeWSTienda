@@ -75,21 +75,6 @@
     "status": "ACTIVE"
   },
   {
-    "nombre": "Henaojara",
-    "tipo": "ANIME",
-    "descripcion": "Servidor de Henaojara.com",
-    "card": "info",
-    "file": "Henaojara.wsx",
-    "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/modulos/anime/Henaojara.wsx",
-    "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/henaojara.png",
-    "creador": "AnimeWS",
-    "key": "SGVuYW9qYXJhLEFuaW1lV1MsMjAyMi0wNi0wNSAwMjoyNDowOA==",
-    "launcher": "ws.anime.mod.servers.animews.anime.henaojara.Main",
-    "apk": "1.0.0",
-    "version": "2.0.0",
-    "status": "ACTIVE"
-  },
-  {
     "nombre": "HentaiLA",
     "tipo": "HENTAI",
     "descripcion": "Servidor de HentaiLA.com",
