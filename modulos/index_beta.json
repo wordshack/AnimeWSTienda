@@ -117,7 +117,7 @@
     "launcher": "ws.anime.mod.servers.animews.hentai.tiohentai.Main",
     "apk": "1.0.0",
     "version": "1.0.0",
-    "status": "ACTIVE"
+    "status": "DEPRECATED"
   },
   {
     "nombre": "LectorTMO",
