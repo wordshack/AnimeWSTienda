@@ -60,11 +60,17 @@
             "changelog":"•Error al mostrar capitulos"
          }
       },
-      "QW5pbWVGZW5peCxBbmltZVdTLDIwMjEtMTAtMDkgMzo0MDowMA==":{
-         "release":"animefenix",
-         "1.0.0":{
-            "changelog":"•AnimeFenix"
-         }
-      }
+       "QW5pbWVGZW5peCxBbmltZVdTLDIwMjEtMTAtMDkgMzo0MDowMA==":{
+           "release":"animefenix",
+           "1.0.0":{
+               "changelog":"•AnimeFenix"
+           }
+       },
+       "QW5pbWVOaW5qYSxBbmltZVdTLDIwMjItMTAtMjQgMDA6MjE6MDg=":{
+           "release":"animeninja",
+           "2.0.0":{
+               "changelog":"•AnimeNinja"
+           }
+       }
    }
 }
