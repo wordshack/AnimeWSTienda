@@ -35,8 +35,8 @@
      "creador":"AnimeWS",
      "key":"TW9ub3NDaGlub3MsQW5pbWVXUywyMDIxLTA1LTA2IDIxOjU1OjAw",
      "launcher":"ws.anime.mod.servers.animews.anime.monoschinos.Main",
-     "version":"2.1.5",
-     "status":"DISABLE"
+     "version":"3.1.5",
+     "status":"ACTIVE"
   },
   {
      "nombre":"AnimeFenix",
@@ -74,7 +74,7 @@
      "creador":"AnimeWS",
      "key":"QW5pbWVOaW5qYSxBbmltZVdTLDIwMjItMTAtMjQgMDA6MjE6MDg=",
      "launcher":"ws.anime.mod.servers.animews.anime.animeninja.Main",
-     "version":"3.0.8",
+     "version":"3.0.9",
      "status":"ACTIVE"
   },
   {
