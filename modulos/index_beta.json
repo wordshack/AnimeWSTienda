@@ -72,7 +72,7 @@
       "launcher":"ws.anime.mod.servers.animews.anime.animefenix.Main",
       "apk":"1.0.0",
       "version":"1.0.0",
-      "status":"ACTIVE"
+      "status":"DEPRECATED"
    },
    {
       "nombre":"Henaojara",
@@ -102,7 +102,7 @@
       "launcher":"ws.anime.mod.servers.animews.anime.henaojara.Main",
       "apk":"1.0.0",
       "version":"2.0.0",
-      "status":"ACTIVE"
+      "status":"DEPRECATED"
    },
    {
       "nombre":"AnimeNinja",
@@ -117,7 +117,7 @@
       "launcher":"ws.anime.mod.servers.animews.anime.animeninja.Main",
       "apk":"1.0.0",
       "version":"2.0.4",
-      "status":"ACTIVE"
+      "status":"DEPRECATED"
    },
    {
       "nombre":"HentaiLA",
@@ -162,7 +162,7 @@
       "launcher":"ws.anime.mod.servers.animews.manga.lectortmo.Main",
       "apk":"1.0.0",
       "version":"2.2.1",
-      "status":"ACTIVE"
+      "status":"DEPRECATED"
    },
    {
       "nombre":"TMOHentai",
@@ -177,7 +177,7 @@
       "launcher":"ws.anime.mod.servers.animews.manga.tmohentai.Main",
       "apk":"1.0.0",
       "version":"1.1.2",
-      "status":"ACTIVE"
+      "status":"DEPRECATED"
    },
    {
       "nombre":"LectorManga",
@@ -192,7 +192,7 @@
       "launcher":"ws.anime.mod.servers.animews.manga.lectormanga.Main",
       "apk":"1.0.0",
       "version":"1.1.2",
-      "status":"ACTIVE"
+      "status":"DEPRECATED"
    },
    {
       "nombre":"MangasIn",
@@ -207,6 +207,6 @@
       "launcher":"ws.anime.mod.servers.animews.manga.mangasin.Main",
       "apk":"1.0.0",
       "version":"2.0.16",
-      "status":"ACTIVE"
+      "status":"DEPRECATED"
    }
 ]
