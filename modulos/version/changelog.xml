@@ -1,8 +1,5 @@
 <changelog>
-  <release version="1.11.4" code="1">
-    <type to="fix">Arreglos y mejoras en la descarga</type>
-    <type to="fix">Actualización de librerías</type>
-    <type to="fix">Mejora en el sistema de módulos</type>
-    <type to="fix">MangasIn ya funciona en esta versión</type>
+  <release version="3.12.13" code="3">
+    <type to="new"> Demasiados cambios </type>
   </release>
 </changelog>
