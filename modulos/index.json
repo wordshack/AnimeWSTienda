@@ -56,7 +56,7 @@
     "key": "QW5pbWVGbGFzaCxBbmltZVdTLDIwMjEtMDYtMjggMTg6NDg6MDA=",
     "launcher": "ws.anime.mod.servers.animews.anime.animeflash.Main",
     "apk": "1.0.0",
-    "version": "1.0.0",
+    "version": "0.0.0",
     "status": "DEPRECATED"
   },
   {
@@ -71,7 +71,7 @@
     "key": "QW5pbWVGZW5peCxBbmltZVdTLDIwMjEtMTAtMDkgMzo0MDowMA==",
     "launcher": "ws.anime.mod.servers.animews.anime.animefenix.Main",
     "apk": "1.0.0",
-    "version": "1.0.0",
+    "version": "0.0.0",
     "status": "DEPRECATED"
   },
   {
@@ -86,7 +86,7 @@
     "key": "SGVuYW9qYXJhLEFuaW1lV1MsMjAyMi0wNi0wNSAwMjoyNDowOA==",
     "launcher": "ws.anime.mod.servers.animews.anime.henaojara.Main",
     "apk": "1.0.0",
-    "version": "2.0.0",
+    "version": "0.0.0",
     "status": "DEPRECATED"
   },
   {
@@ -101,7 +101,7 @@
     "key": "SGVuYW9qYXJhMixBbmltZVdTLDIwMjItMDgtMjkgMjE6MjI6MDg=",
     "launcher": "ws.anime.mod.servers.animews.anime.henaojara.Main",
     "apk": "1.0.0",
-    "version": "2.0.0",
+    "version": "0.0.0",
     "status": "DEPRECATED"
   },
   {
@@ -116,7 +116,7 @@
     "key": "QW5pbWVOaW5qYSxBbmltZVdTLDIwMjItMTAtMjQgMDA6MjE6MDg=",
     "launcher": "ws.anime.mod.servers.animews.anime.animeninja.Main",
     "apk": "1.0.0",
-    "version": "2.0.4",
+    "version": "0.0.0",
     "status": "DEPRECATED"
   },
   {
@@ -146,7 +146,7 @@
     "key": "VGlvSGVudGFpLEFuaW1lV1MsMjAyMS0wNi0yNCAxMzoyMDowMA==",
     "launcher": "ws.anime.mod.servers.animews.hentai.tiohentai.Main",
     "apk": "1.0.0",
-    "version": "1.0.0",
+    "version": "0.0.0",
     "status": "DEPRECATED"
   },
   {
@@ -161,7 +161,7 @@
     "key": "TGVjdG9yVE1PLEFuaW1lV1MsMjAyMS0wNS0xMSAyMTo0NjowMA==",
     "launcher": "ws.anime.mod.servers.animews.manga.lectortmo.Main",
     "apk": "1.0.0",
-    "version": "2.2.1",
+    "version": "0.0.0",
     "status": "DEPRECATED"
   },
   {
@@ -176,7 +176,7 @@
     "key": "VE1PSGVudGFpLEFuaW1lV1MsMjAyMS0wNS0yMCAxMzo1ODowMA==",
     "launcher": "ws.anime.mod.servers.animews.manga.tmohentai.Main",
     "apk": "1.0.0",
-    "version": "1.1.2",
+    "version": "0.0.0",
     "status": "DEPRECATED"
   },
   {
@@ -191,7 +191,7 @@
     "key": "TGVjdG9yTWFuZ2EsQW5pbWVXUywyMDIxLTA2LTA1IDIxOjU1OjAw",
     "launcher": "ws.anime.mod.servers.animews.manga.lectormanga.Main",
     "apk": "1.0.0",
-    "version": "1.1.2",
+    "version": "0.0.0",
     "status": "DEPRECATED"
   },
   {
@@ -206,7 +206,7 @@
     "key": "TWFuZ2FzSW4sQW5pbWVXUywyMDIxLTA5LTA1IDM6NDE6MDA=",
     "launcher": "ws.anime.mod.servers.animews.manga.mangasin.Main",
     "apk": "1.0.0",
-    "version": "2.0.16",
+    "version": "0.0.0",
     "status": "DEPRECATED"
   }
 ]
