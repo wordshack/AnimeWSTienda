@@ -100,7 +100,7 @@
      "creador":"AnimeWS",
      "key":"TGVjdG9yVE1PLEFuaW1lV1MsMjAyMS0wNS0xMSAyMTo0NjowMA==",
      "launcher":"ws.anime.mod.servers.animews.manga.lectortmo.Main",
-     "version":"3.2.4",
+     "version":"3.2.5",
      "status":"ACTIVE"
   },
   {
@@ -126,7 +126,7 @@
      "creador":"AnimeWS",
      "key":"TGVjdG9yTWFuZ2EsQW5pbWVXUywyMDIxLTA2LTA1IDIxOjU1OjAw",
      "launcher":"ws.anime.mod.servers.animews.manga.lectormanga.Main",
-     "version":"3.1.2",
+     "version":"3.1.3",
      "status":"ACTIVE"
   },
   {
@@ -139,7 +139,7 @@
      "creador":"AnimeWS",
      "key":"TWFuZ2FzSW4sQW5pbWVXUywyMDIxLTA5LTA1IDM6NDE6MDA=",
      "launcher":"ws.anime.mod.servers.animews.manga.mangasin.Main",
-     "version":"3.0.18",
+     "version":"3.0.19",
      "status":"ACTIVE"
   }
 ]
