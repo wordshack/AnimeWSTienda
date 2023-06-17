@@ -101,8 +101,8 @@
     "key": "SGVuYW9qYXJhMixBbmltZVdTLDIwMjItMDgtMjkgMjE6MjI6MDg=",
     "launcher": "ws.anime.mod.servers.animews.anime.henaojara.Main",
     "apk": "1.0.0",
-    "version": "0.0.0",
-    "status": "DEPRECATED"
+    "version": "2.0.0",
+    "status": "ACTIVE"
   },
   {
     "nombre": "AnimeNinja",
@@ -116,8 +116,8 @@
     "key": "QW5pbWVOaW5qYSxBbmltZVdTLDIwMjItMTAtMjQgMDA6MjE6MDg=",
     "launcher": "ws.anime.mod.servers.animews.anime.animeninja.Main",
     "apk": "1.0.0",
-    "version": "0.0.0",
-    "status": "DEPRECATED"
+    "version": "2.0.4",
+    "status": "ACTIVE"
   },
   {
     "nombre": "HentaiLA",
