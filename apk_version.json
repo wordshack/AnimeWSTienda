@@ -1,8 +1,8 @@
 {
-   "release":"3.12.13",
-   "beta":"3.12.13",
-   "time_release":1686898977,
-   "time_beta":1686898977,
-   "route_release":"3.12.13/AnimeWSv3.12.13",
-   "important":false
+   "release":"3.12.14",
+   "beta":"3.12.14",
+   "time_release":1688589826,
+   "time_beta":1688589826,
+   "route_release":"3.12.14/AnimeWSv3.12.14",
+   "important":true
 }
