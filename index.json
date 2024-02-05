@@ -104,6 +104,19 @@
       "status":"ACTIVE"
    },
    {
+      "nombre":"VeoHentai",
+      "tipo":"HENTAI",
+      "descripcion":"Servidor de VeoHentai.com",
+      "file":"VeoHentai.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/module/VeoHentai.wsx",
+      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/veohentai.png",
+      "creador":"AnimeWS",
+      "key":"VmVvSGVudGFpLEFuaW1lV1MsMjAyNC0wMi0wNCAxOTo1MjowMA==",
+      "launcher":"ws.anime.mod.servers.animews.hentai.veohentai.Main",
+      "version":"3.0.0",
+      "status":"DISABLE"
+   },
+   {
       "nombre":"LectorTMO",
       "tipo":"MANGA",
       "descripcion":"Servidor de LectorTMO.com",
