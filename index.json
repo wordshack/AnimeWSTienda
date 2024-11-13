@@ -78,6 +78,19 @@
       "status":"ACTIVE"
    },
    {
+      "nombre":"LatAnime",
+      "tipo":"ANIME",
+      "descripcion":"Servidor de LatAnime.org",
+      "file":"LatAnime.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/module/LatAnime.wsx",
+      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/latanime.png",
+      "creador":"AnimeWS",
+      "key":"TGF0QW5pbWUsQW5pbWVXUywyMDI0LTExLTEzIDAzOjIyOjI2",
+      "launcher":"ws.anime.mod.servers.animews.anime.latanime.Main",
+      "version":"3.0.0",
+      "status":"DISABLE"
+   },
+   {
       "nombre":"HentaiLA",
       "tipo":"HENTAI",
       "descripcion":"Servidor de HentaiLA.com",
