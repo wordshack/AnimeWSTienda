@@ -166,7 +166,7 @@
       "key":"TGVjdG9yTWFuZ2EsQW5pbWVXUywyMDIxLTA2LTA1IDIxOjU1OjAw",
       "launcher":"ws.anime.mod.servers.animews.manga.lectormanga.Main",
       "version":"3.1.4",
-      "status":"ACTIVE"
+      "status":"DEPRECATED"
    },
    {
       "nombre":"MangasIn",
