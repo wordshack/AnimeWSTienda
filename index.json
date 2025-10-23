@@ -65,6 +65,19 @@
       "status":"ACTIVE"
    },
    {
+      "nombre":"AnimeV1",
+      "tipo":"ANIME",
+      "descripcion":"Servidor de AnimeV1.com",
+      "file":"AnimeV1.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/module/AnimeV1.wsx",
+      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/animev1.png",
+      "creador":"AnimeWS",
+      "key":"QW5pbWVWMSxBbmltZVdTLDIwMjUtMTAtMjMgMDA6NDY6MDA=",
+      "launcher":"ws.anime.mod.servers.animews.anime.animev1.Main",
+      "version":"3.0.0",
+      "status":"ACTIVE"
+   },
+   {
       "nombre":"MonosChinos",
       "tipo":"ANIME",
       "descripcion":"Servidor de MonosChinos2.com",
