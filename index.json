@@ -78,6 +78,19 @@
       "status":"ACTIVE"
    },
    {
+      "nombre":"AnimeLHD",
+      "tipo":"ANIME",
+      "descripcion":"Servidor de AnimeLatinoHD.com",
+      "file":"AnimeLHD.wsx",
+      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/module/AnimeLHD.wsx",
+      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/animelhd.png",
+      "creador":"AnimeWS",
+      "key":"QW5pbWVMSEQsQW5pbWVXUywyMDI2LTAxLTI2IDAwOjUzOjAw",
+      "launcher":"ws.anime.mod.servers.animews.anime.animelhd.Main",
+      "version":"3.0.0",
+      "status":"ACTIVE"
+   },
+   {
       "nombre":"MonosChinos",
       "tipo":"ANIME",
       "descripcion":"Servidor de MonosChinos2.com",
