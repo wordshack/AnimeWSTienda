@@ -91,32 +91,6 @@
       "status":"ACTIVE"
    },
    {
-      "nombre":"MonosChinos",
-      "tipo":"ANIME",
-      "descripcion":"Servidor de MonosChinos2.com",
-      "file":"MonosChinos.wsx",
-      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/module/MonosChinos.wsx",
-      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/monoschinos.png",
-      "creador":"AnimeWS",
-      "key":"TW9ub3NDaGlub3MsQW5pbWVXUywyMDIxLTA1LTA2IDIxOjU1OjAw",
-      "launcher":"ws.anime.mod.servers.animews.anime.monoschinos.Main",
-      "version":"3.5.19",
-      "status":"DEPRECATED"
-   },
-   {
-      "nombre":"AnimeFenix",
-      "tipo":"ANIME",
-      "descripcion":"Servidor de AnimeFenix.com",
-      "file":"AnimeFenix.wsx",
-      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/module/AnimeFenix.wsx",
-      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/animefenix.png",
-      "creador":"AnimeWS",
-      "key":"QW5pbWVGZW5peCxBbmltZVdTLDIwMjEtMTAtMDkgMzo0MDowMA==",
-      "launcher":"ws.anime.mod.servers.animews.anime.animefenix.Main",
-      "version":"3.2.8",
-      "status":"DEPRECATED"
-   },
-   {
       "nombre":"HentaiLA",
       "tipo":"HENTAI",
       "descripcion":"Servidor de HentaiLA.com",
@@ -180,19 +154,6 @@
       "launcher":"ws.anime.mod.servers.animews.manga.tmohentai.Main",
       "version":"3.3.5",
       "status":"ACTIVE"
-   },
-   {
-      "nombre":"LectorManga",
-      "tipo":"MANGA",
-      "descripcion":"Servidor de LectorManga.com",
-      "file":"LectorManga.wsx",
-      "url":"https://github.com/wordshack/AnimeWSTienda/raw/master/module/LectorManga.wsx",
-      "icono":"https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/lectormanga.png",
-      "creador":"AnimeWS",
-      "key":"TGVjdG9yTWFuZ2EsQW5pbWVXUywyMDIxLTA2LTA1IDIxOjU1OjAw",
-      "launcher":"ws.anime.mod.servers.animews.manga.lectormanga.Main",
-      "version":"3.1.4",
-      "status":"DEPRECATED"
    },
    {
       "nombre":"MangasIn",
