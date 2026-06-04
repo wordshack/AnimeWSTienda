@@ -180,5 +180,18 @@
       "launcher": "ws.anime.mod.servers.animews.manga.mangasin.Main",
       "version": "3.2.26",
       "status": "ACTIVE"
+   },
+   {
+      "nombre": "LeerCapitulo",
+      "tipo": "MANGA",
+      "descripcion": "Servidor de LeerCapitulo.co",
+      "file": "LeerCapitulo.wsx",
+      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/LeerCapitulo.wsx",
+      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/leercapitulo.png",
+      "creador": "AnimeWS",
+      "key": "TGVlckNhcGl0dWxvLEFuaW1lV1MsMjAyNi0wNi0wNCAwNToxMTowMA==",
+      "launcher": "ws.anime.mod.servers.animews.manga.leercapitulo.Main",
+      "version": "3.0.0",
+      "status": "ACTIVE"
    }
 ]
