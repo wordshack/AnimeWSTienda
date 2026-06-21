@@ -180,5 +180,18 @@
       "launcher": "ws.anime.mod.servers.animews.manga.mangasin.Main",
       "version": "3.2.26",
       "status": "ACTIVE"
+   },
+   {
+      "nombre": "MangaOni",
+      "tipo": "MANGA",
+      "descripcion": "Servidor de manga-oni.com",
+      "file": "MangaOni.wsx",
+      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/MangaOni.wsx",
+      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/mangaoni.png",
+      "creador": "Shoesito",
+      "key": "TWFuZ2FPbmksU2hvZXNpdG8sMjAyNi0wNi0yMSAxMjo0NDowMA==",
+      "launcher": "ws.anime.mod.servers.animews.manga.mangaoni.Main",
+      "version": "3.0.0",
+      "status": "DISABLED"
    }
 ]
