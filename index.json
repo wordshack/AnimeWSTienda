@@ -9,7 +9,7 @@
       "creador": "AnimeWS",
       "key": "SktBbmltZSxBbmltZVdTLDIwMTktMDktMTkgMTQ6NDA6MDA=",
       "launcher": "ws.anime.mod.servers.animews.anime.jkanime.Main",
-      "version": "3.9.30",
+      "version": "3.10.30",
       "status": "ACTIVE"
    },
    {
@@ -48,7 +48,7 @@
       "creador": "AnimeWS",
       "key": "QW5pbWVOaW5qYSxBbmltZVdTLDIwMjItMTAtMjQgMDA6MjE6MDg=",
       "launcher": "ws.anime.mod.servers.animews.anime.animeninja.Main",
-      "version": "3.3.19",
+      "version": "3.4.21",
       "status": "ACTIVE"
    },
    {
@@ -87,7 +87,7 @@
       "creador": "AnimeWS",
       "key": "QW5pbWVMSEQsQW5pbWVXUywyMDI2LTAxLTI2IDAwOjUzOjAw",
       "launcher": "ws.anime.mod.servers.animews.anime.animelhd.Main",
-      "version": "3.0.3",
+      "version": "3.1.6",
       "status": "ACTIVE"
    },
    {
@@ -182,6 +182,7 @@
       "status": "ACTIVE"
    },
    {
+<<<<<<< HEAD
       "nombre": "MangaOni",
       "tipo": "MANGA",
       "descripcion": "Servidor de manga-oni.com",
@@ -193,5 +194,18 @@
       "launcher": "ws.anime.mod.servers.animews.manga.mangaoni.Main",
       "version": "3.0.0",
       "status": "DISABLED"
+=======
+      "nombre": "LeerCapitulo",
+      "tipo": "MANGA",
+      "descripcion": "Servidor de LeerCapitulo.co",
+      "file": "LeerCapitulo.wsx",
+      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/LeerCapitulo.wsx",
+      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/leercapitulo.png",
+      "creador": "AnimeWS",
+      "key": "TGVlckNhcGl0dWxvLEFuaW1lV1MsMjAyNi0wNi0wNCAwNToxMTowMA==",
+      "launcher": "ws.anime.mod.servers.animews.manga.leercapitulo.Main",
+      "version": "3.0.1",
+      "status": "ACTIVE"
+>>>>>>> fe182dae437d6d644dfc05d93136c6461ecc033d
    }
 ]
