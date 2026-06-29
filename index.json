@@ -206,5 +206,18 @@
       "launcher": "ws.anime.mod.servers.animews.manga.mangaoni.Main",
       "version": "3.0.0",
       "status": "DISABLED"
+   },
+   {
+      "nombre": "DonghuaLife",
+      "tipo": "ANIME",
+      "descripcion": "Servidor de donghualife.com",
+      "file": "DonghuaLife.wsx",
+      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/DonghuaLife.wsx",
+      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/donghualife.png",
+      "creador": "Shoesito",
+      "key": "RG9uZ2h1YUxpZmUsU2hvZXNpdG8sMjAyNi0wNi0yOCAxNjoxMTowMA==",
+      "launcher": "ws.anime.mod.servers.animews.anime.donghualife.Main",
+      "version": "3.0.0",
+      "status": "DISABLED"
    }
 ]
