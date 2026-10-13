@@ -180,5 +180,18 @@
       "launcher": "ws.anime.mod.servers.animews.anime.donghualife.Main",
       "version": "3.3.0",
       "status": "ACTIVE"
+   },
+   {
+      "nombre": "SeriesDonghua",
+      "tipo": "ANIME",
+      "descripcion": "Servidor de seriesdonghua.com",
+      "file": "SeriesDonghua.wsx",
+      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/SeriesDonghua.wsx",
+      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/seriesdonghua.png",
+      "creador": "Shoesito",
+      "key": "U2VyaWVzRG9uZ2h1YSxTaG9lc2l0bywyMDI2LTEwLTEyIDIxOjQ3OjAw",
+      "launcher": "ws.anime.mod.servers.animews.anime.seriesdonghua.Main",
+      "version": "3.0.0",
+      "status": "DISABLED"
    }
 ]
